@@ -1,0 +1,18 @@
+PulseFrame Studio Retro Website — Asset & third-party notices
+============================================================
+
+1. The site's project illustrations and app screenshots were provided
+   for the PulseFrame Studio project and retained from the earlier
+   PulseFrame website package. The screenshots depict an earlier Alpha.
+2. Hosted multi-file site optionally uses Google Fonts CSS requests:
+   DM Sans, Space Grotesk, and Press Start 2P. Font files are not bundled
+   or redistributed in this package. The browser uses system fallbacks
+   when these resources are unavailable. The standalone HTML does not
+   request these font stylesheets.
+3. GitHub, Reddit, Telegram, X, YouTube, Toshiba, Apple Music, Spotify,
+   etc. are trademarks of their respective owners, where referenced.
+   PulseFrame Studio is not affiliated with or endorsed by them.
+4. The project source code's MIT license covers the original PulseFrame
+   Studio software code; third-party works have their own terms.
+5. The website mini-game and visualizer demos are promotional standalone
+   implementations, not bundled binaries of the actual Electron app.

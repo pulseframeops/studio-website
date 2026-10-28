@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pulseframe.tihsmile.space/sitemap.xml
